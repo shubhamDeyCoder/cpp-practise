@@ -19,7 +19,7 @@ int main()
     }
    }
    
-   cout<<largest<<endl;
+   
    cout<<secLargest<<endl;
     return 0;
 }
